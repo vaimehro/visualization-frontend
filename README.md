@@ -6,9 +6,9 @@ to run this app , clone this repo https://github.com/vaimehro/visualization-fron
 
 steps:
 
-npm install
-npm start
+`npm install`
+`npm start`
 
-after build , app will be available on this url http://localhost:3000/
+after build is done, app will be available on this url http://localhost:3000/
 
 To see Visualization dashboard, access http://localhost:3000/dashboard
