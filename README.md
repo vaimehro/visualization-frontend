@@ -2,6 +2,8 @@
 
 This visualization-frontend app built on React Js and Chart.js  ,displays visual representation of data.
 
+Dashboard shows population for 10 countries on the year 2018.
+
 to run this app , clone this repo https://github.com/vaimehro/visualization-frontend the do  `cd visualization-frontend`.
 
 steps:
