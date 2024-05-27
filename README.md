@@ -13,3 +13,8 @@ steps:
 after build is done, app will be available on this url http://localhost:3000/
 
 To see Visualization dashboard, access http://localhost:3000/dashboard
+
+
+
+![image](https://github.com/vaimehro/visualization-frontend/assets/13102802/294b8a84-68ec-477f-9bc4-0f921344d4eb)
+
